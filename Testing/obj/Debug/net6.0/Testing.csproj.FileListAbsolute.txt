@@ -1,0 +1,15 @@
+C:\Users\onotu\Desktop\WellaHealth\Testing\bin\Debug\net6.0\Testing.exe
+C:\Users\onotu\Desktop\WellaHealth\Testing\bin\Debug\net6.0\Testing.deps.json
+C:\Users\onotu\Desktop\WellaHealth\Testing\bin\Debug\net6.0\Testing.runtimeconfig.json
+C:\Users\onotu\Desktop\WellaHealth\Testing\bin\Debug\net6.0\Testing.dll
+C:\Users\onotu\Desktop\WellaHealth\Testing\bin\Debug\net6.0\ref\Testing.dll
+C:\Users\onotu\Desktop\WellaHealth\Testing\bin\Debug\net6.0\Testing.pdb
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.dll
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\ref\Testing.dll
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.pdb
+C:\Users\onotu\Desktop\WellaHealth\Testing\obj\Debug\net6.0\Testing.genruntimeconfig.cache
