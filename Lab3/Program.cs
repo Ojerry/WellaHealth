@@ -25,7 +25,7 @@ namespace Lab3
                 if (isPrime)
                     Console.WriteLine("{0} is a prime number", number);
                 else
-                    Console.WriteLine("{0} is a Composite number", number);
+                    Console.WriteLine("{0} Not Prime number", number);
             }
         }
     }
